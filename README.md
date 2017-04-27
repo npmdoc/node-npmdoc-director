@@ -1,6 +1,6 @@
 # npmdoc-director
 
-#### api documentation for  [director (v1.2.8)](https://github.com/flatiron/director)  [![npm package](https://img.shields.io/npm/v/npmdoc-director.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-director) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-director.svg)](https://travis-ci.org/npmdoc/node-npmdoc-director)
+#### basic api documentation for  [director (v1.2.8)](https://github.com/flatiron/director)  [![npm package](https://img.shields.io/npm/v/npmdoc-director.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-director) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-director.svg)](https://travis-ci.org/npmdoc/node-npmdoc-director)
 
 #### A client Side/Server Side Router
 
@@ -80,7 +80,8 @@
     "scripts": {
         "test": "vows test/server/*/*-test.js --spec"
     },
-    "version": "1.2.8"
+    "version": "1.2.8",
+    "bin": {}
 }
 ```
 
